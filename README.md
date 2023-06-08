@@ -7,7 +7,7 @@ Data Structures and Algorithm for Online Freelancing Platforms using C++
 
  
 <h2>Main Menu</h2>
-<img src="https://github.com/trixtipsfix/DevProj/assets/69011613/4155b101-7d40-4b58-a8df-d141f24044cf" weight="50%" height="50%">
+<img src="https://github.com/trixtipsfix/DevProj/assets/69011613/4155b101-7d40-4b58-a8df-d141f24044cf" width="50%" height="50%">
 <h2>d - Add a developer</h2>
 <img src="https://github.com/trixtipsfix/DevProj/assets/69011613/f49384ba-c2d8-4abe-af58-372dd401aed5">
 <h2>p - Add a project</h2>
