@@ -11,17 +11,6 @@ Data Structures and Algorithm for Online Freelancing Platforms using C++
 <h2>d - Add a developer</h2>
 <img src="https://github.com/trixtipsfix/DevProj/assets/69011613/f49384ba-c2d8-4abe-af58-372dd401aed5">
 <h2>p - Add a project</h2>
-<img src="https://github.com/trixtipsfix/DevProj/assets/69011613/4155b101-7d40-4b58-a8df-d141f24044cf">
-Figure 4: Command "s"
- 
-Figure 5: Command "t"
- 
-Figure 6: Command "v"
- 
-Figure 7: Command "f"
- 
-Figure 8: Command "r"
- 
-Figure 9: Command "n"
- 
-Figure 10: Command "e"
+<img src="https://github.com/trixtipsfix/DevProj/assets/69011613/79e1cd16-978e-47b5-97eb-1bb9ce8e76cb">
+
+!!!  UNDER CONSTRUCTION !!!
