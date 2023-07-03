@@ -26,5 +26,3 @@ Data Structures and Algorithm for Online Freelancing Platforms using C++
 <img src="https://github.com/trixtipsfix/DevProj/assets/69011613/d774a429-d8ff-400b-bee1-5c4d629f88d5" width="50%" height="50%">
 <h2>e - Exit</h2>
 <img src="https://github.com/trixtipsfix/DevProj/assets/69011613/3aa51721-e5c1-4976-be43-8a4366440a0a" width="50%" height="50%">
-
-!!!  UNDER CONSTRUCTION !!!
